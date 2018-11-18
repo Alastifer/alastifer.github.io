@@ -280,3 +280,139 @@ footer {
     top: -30px;
     left: 44%;
 }
+
+@media(max-width: 382px) {
+    #header-navigation {
+        left: 65%;
+    }
+
+    #like {
+        left: 0%;
+    }
+
+    #ask {
+        left: -1%;
+    }
+
+    #shape3 {
+        left: 30%;
+    }
+
+    #block3 {
+        left: 300px;
+    }
+
+    #block4 {
+        left: 300px;
+    }
+
+    #block5 {
+        left: 305px;
+    }
+
+    #footer-text {
+        left: 40%;
+    }
+}
+
+@media(max-width: 360px) {
+    #header-navigation {
+        left: 55%;
+    }
+
+    #like {
+        left: -7%;
+    }
+
+    #ask {
+        left: -7%;
+    }
+
+    #shape3 {
+        left: 24%;
+    }
+
+    #block3 {
+        left: 225px;
+    }
+
+    #block4 {
+        left: 220px;
+    }
+
+    #block5 {
+        left: 225px;
+    }
+
+    #footer-text {
+        left: 35%;
+    }
+}
+
+@media(max-width: 320px) {
+    #header-navigation {
+        left: 45%;
+    }
+
+    #like {
+        left: -12%;
+    }
+
+    #ask {
+        left: -13%;
+    }
+
+    #shape3 {
+        left: 18%;
+    }
+
+    #block3 {
+        left: 140px;
+    }
+
+    #block4 {
+        left: 130px;
+    }
+
+    #block5 {
+        left: 135px;
+    }
+
+    #footer-text {
+        left: 30%;
+    }
+}
+
+@media(max-width: 285px) {
+    #header-navigation {
+        left: 35%;
+    }
+
+    #like {
+        left: -18%;
+    }
+
+    #ask {
+        left: -19%;
+    }
+
+    #shape3 {
+        left: 12%;
+    }
+
+    #block3 {
+        left: 70px;
+    }
+
+    #block4 {
+        left: 60px;
+    }
+
+    #block5 {
+        left: 65px;
+    }
+
+    #footer-text {
+        left: 25%;
+    }
+}
