@@ -111,8 +111,32 @@ a {
 
 #shape3 {
     position: relative;
-    top: 500px;
+    top: 290px;
     left: 33%;
+}
+
+#like {
+    color: white;
+    font-size: 52px;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 3%;
+}
+
+#ask {
+    color: white;
+    font-size: 34px;
+    text-align: center;
+    position: relative;
+    top: 280px;
+    left: 3%;
+}
+
+#ask-me {
+    display: block;
+    position: relative;
+    top: -55px;
 }
 
 #places {
@@ -158,7 +182,7 @@ a {
     text-align: center;
     width: 650px;
     position: relative;
-    top: 40%;
+    top: 20%;
     left: 350px;
 }
 
@@ -168,7 +192,7 @@ a {
 
 #block4 {
     position: relative;
-    top: 40%;
+    top: 20%;
     left: 350px;
 }
 
@@ -221,7 +245,7 @@ a {
 
 #block5 {
     position: relative;
-    top: 45%;
+    top: 25%;
     left: 355px;
 }
 
