@@ -429,3 +429,114 @@ footer {
         left: 25%;
     }
 }
+
+@media(max-width: 200px) {
+    #header-navigation {
+        left: 25%;
+    }
+
+    #like {
+        font-size: 40px;
+        left: -22%;
+    }
+
+    #ask {
+        left: -22%;
+    }
+
+    #shape3 {
+        left: 7%;
+    }
+
+    #block3 {
+        left: 10px;
+        font-size: 19px;
+    }
+
+    #world {
+        position: relative;
+        top: -7px;
+        left: -9px;
+    }
+
+    #world-back {
+        position: relative;
+        top: 10px;
+        left: 110px;
+    }
+
+    #shop {
+        position: relative;
+        top: -22px;
+        left: -48px;
+    }
+
+    #shop-back {
+        position: relative;
+        top: 12px;
+        left: 60px;
+    }
+
+    #photo {
+        position: relative;
+        top: 137px;
+        left: -450px;
+    }
+
+    #photo-back {
+        position: relative;
+        top: 180px;
+        left: -345px;
+    }
+
+    #find {
+        position: relative;
+        top: 150px;
+        left: -478px;
+    }
+
+    #find-back {
+        position: relative;
+        top: 180px;
+        left: -373px;
+    }
+
+    #block5 {
+        position: relative;
+        top: 25%;
+        left: 355px;
+        width: 70%;
+    }
+
+    #world-text {
+        display: block;
+        position: relative;
+        left: -180px;
+        top: -40px;
+    }
+
+    #shop-text {
+        display: block;
+        position: relative;
+        left: 30px;
+        top: -61px;
+    }
+
+    #photo-text {
+        display: block;
+        position: relative;
+        left: -166px;
+        top: 80px;
+    }
+
+    #find-text {
+        display: block;
+        position: relative;
+        left: 23px;
+        top: 60px;
+    }
+
+    #footer-text {
+        left: 18%;
+    }
+}
