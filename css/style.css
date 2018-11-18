@@ -52,7 +52,7 @@ body {
     width: 1280px;
     height: 1200px;
     margin: 40px auto auto;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 header {
@@ -281,7 +281,7 @@ footer {
     left: 44%;
 }
 
-@media(max-width: 382px) {
+@media(max-width: 362px) {
     #header-navigation {
         left: 65%;
     }
@@ -315,7 +315,7 @@ footer {
     }
 }
 
-@media(max-width: 360px) {
+@media(max-width: 328px) {
     #header-navigation {
         left: 55%;
     }
@@ -349,7 +349,7 @@ footer {
     }
 }
 
-@media(max-width: 320px) {
+@media(max-width: 290px) {
     #header-navigation {
         left: 45%;
     }
@@ -383,7 +383,7 @@ footer {
     }
 }
 
-@media(max-width: 285px) {
+@media(max-width: 255px) {
     #header-navigation {
         left: 35%;
     }
