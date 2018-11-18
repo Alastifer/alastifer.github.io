@@ -52,6 +52,7 @@ body {
     width: 1280px;
     height: 1200px;
     margin: 40px auto auto;
+    overflow-x: hidden;
 }
 
 header {
@@ -163,6 +164,82 @@ a {
 
 #small-text-block {
     font-size: 22px;
+}
+
+#block4 {
+    position: relative;
+    top: 40%;
+    left: 350px;
+}
+
+#world {
+    position: relative;
+    top: 33px;
+    left: -119px;
+}
+
+#world-back {
+    position: relative;
+    top: 50px;
+}
+
+#shop {
+    position: relative;
+    top: 18px;
+    left: -158px;
+}
+
+#shop-back {
+    position: relative;
+    top: 52px;
+    left: -50px;
+}
+
+#photo {
+    position: relative;
+    top: 10px;
+    left: -182px;
+}
+
+#photo-back {
+    position: relative;
+    top: 51px;
+    left: -75px;
+}
+
+#find {
+    position: relative;
+    top: 18px;
+    left: -210px;
+}
+
+#find-back {
+    position: relative;
+    top: 53px;
+    left: -105px;
+}
+
+#block5 {
+    position: relative;
+    top: 45%;
+    left: 355px;
+}
+
+#world-text {
+    padding-right: 90px;
+}
+
+#shop-text {
+    padding-right: 103px;
+}
+
+#photo-text {
+    padding-right: 80px;
+}
+
+.places-text {
+    color: #7e7c7c;
+    font-size: 20px;
 }
 
 footer {
