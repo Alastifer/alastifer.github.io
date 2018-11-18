@@ -125,7 +125,30 @@ a {
 
 #green {
     position: relative;
-    top: -20px;
+    top: -42px;
+    left: 3pt;
+}
+
+#block1 {
+    position: relative;
+    top: -220px;
+    left: 5%;
+}
+
+#block2 {
+    position: relative;
+    top: -205px;
+    left: 5%;
+}
+
+.line {
+    float: left;
+    padding-right: 10px;
+}
+
+.places-name {
+    display: block;
+    color: #868686;
 }
 
 footer {
