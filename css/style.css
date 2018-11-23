@@ -67,6 +67,11 @@ a {
     color: #8d8d8d;
 }
 
+#contact-us a, #ask-me a {
+    text-decoration: none;
+    color: white;
+}
+
 #indo-tourism {
     font-size: 30.35pt;
     position: relative;
